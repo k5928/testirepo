@@ -7,11 +7,11 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In id volutpat felis. Pr
 [linkkisana](http://www.lipsum.com/feed/html)
 
 Mopot | Valmistumisvuosi
---- | ---
-xyz | 1952
-yzf | 1951
-fyv | 1955
-fgh | 1995
+--- | --- | ---
+xyz | 1952 | asdf
+yzf | 1951 | sadf
+fyv | 1955 | sadpoa
+fgh | 1995 | jpidas
 
 ### Readme alaotsikko
 
