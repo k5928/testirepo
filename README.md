@@ -6,8 +6,8 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In id volutpat felis. Pr
 
 [linkkisana](http://www.lipsum.com/feed/html)
 
-Mopot | Valmistumisvuosi
---- | --- | ---
+Mopot | Valmistumisvuosi | joku kolmas sarake
+---|---|---
 xyz | 1952 | asdf
 yzf | 1951 | sadf
 fyv | 1955 | sadpoa
